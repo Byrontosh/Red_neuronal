@@ -1,0 +1,15 @@
+
+/* Estilos para el body */
+
+body {
+    background-color: rgba(128, 119, 0, 0.048);
+}
+
+
+/* Estilos para la clase title */
+
+.title {
+    padding: 2rem;
+    font-size: 2rem;
+    margin-left: 2rem;
+}
